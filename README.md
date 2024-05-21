@@ -8,8 +8,8 @@ To install the necessary Python packages for this project, follow these steps:
 1. **Clone the Repository**: 
 
    ```bash
-   git clone https://github.com/ilboglions/Project1_ML4HC_Group72
-   cd Project1_MLHC_Group72
+   git clone https://github.com/ilboglions/Project2_ML4HC_Group72
+   cd Project2_MLHC_Group72
    ```
 
 2. **Install Dependencies**:
