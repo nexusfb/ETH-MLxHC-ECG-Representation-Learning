@@ -24,9 +24,13 @@ The project also involves transfer learning and self-supervised representation l
 
 ## Project Structure
 ├── data/ # Contains the processed ECG data (train/test) 
+
 ├── models/ # Model implementations (RNNs, CNNs, Transformers) 
+
 ├── results/ # Performance metrics and plots 
+
 ├── notebooks/ # Jupyter notebooks for analysis 
+
 └── README.md # This file
 
 ## Datasets
